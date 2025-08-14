@@ -6,6 +6,10 @@
   "framework": null,
   "rewrites": [
     {
+      "source": "/ResetPasswordScreen",
+      "destination": "/ResetPasswordScreen.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
